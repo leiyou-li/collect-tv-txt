@@ -21,15 +21,3 @@ https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.
 ~~http://gg.gg/tv-live-m3u~~  ~~http://gg.gg/tv-live-m3u-mirr~~
 
 
-## 公众号・赞赏（觉得好的话，请作者喝咖啡，鼓励更新！）
-
-> 关注获取更多信息，播放工具下载等，有问题公众号留言。
-
-> 公平起见赞赏10元以上的朋友加微信群交流，优先对应。赞赏后私信公众号：咖啡来了！
-
-![image](./assets/Gongzhonghao+appreciate.png)
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=kimwang1978/collect-tv-txt&type=Date)](https://star-history.com/#kimwang1978/collect-tv-txt&Date)
-
